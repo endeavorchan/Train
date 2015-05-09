@@ -137,6 +137,9 @@ $\frac{1}{\frac{1}{2}} \times \frac{2}{3}$
 math is just like latex
 
 
+Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 
+\\[ \frac{1}{n^{2}} \\]
+
 
 
 
