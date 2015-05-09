@@ -1,3 +1,6 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
+
 ##Main section##
 ###sub section 1###
 I can put my paragraph here, including some special characters like  *two starts italic* **four stars bold**
